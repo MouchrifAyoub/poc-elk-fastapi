@@ -1,0 +1,9 @@
+# Environnement virtuel
+env/
+__pycache__/
+
+# Fichiers logs
+*.log
+
+# Fichiers système
+.DS_Store
